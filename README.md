@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Alfred!  
-🎓 IT Student at National University, Philippines  
-💻 Interests: Web Dev, Game Dev, and AI  
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
